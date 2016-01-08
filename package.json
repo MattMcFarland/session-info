@@ -1,6 +1,6 @@
 {
   "name": "session-info",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Express middleware session diagnostic that console.logs the current session info",
   "main": "lib/index.js",
   "scripts": {
